@@ -9,6 +9,8 @@
 
 	<name>string-collection-eval-dsl</name>
 
+	<description>A domain-specific language (DSL) for evaluating the contents of a string collection.</description>
+
 	<properties>
 		<version.java>1.8</version.java>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
