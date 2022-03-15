@@ -1,0 +1,8 @@
+.project
+.settings
+.classpath
+target/
+*.versionsBackup
+.DS_Store
+Icon?
+.antlr
