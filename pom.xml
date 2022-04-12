@@ -26,7 +26,7 @@
 		<version.junit-platform-commons>${version.junit-platform-engine}</version.junit-platform-commons>
 		<version.junit-platform-launcher>${version.junit-platform-engine}</version.junit-platform-launcher>
 
-		<version.antlr4-runtime>4.9.3</version.antlr4-runtime>
+		<version.antlr4-runtime>4.10</version.antlr4-runtime>
 		<version.antlr4-maven-plugin>4.10</version.antlr4-maven-plugin>
 
 		<version.common-utils>1.6</version.common-utils>
