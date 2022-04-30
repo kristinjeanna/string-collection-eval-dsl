@@ -1,7 +1,6 @@
 package com.github.kristinjeanna.scedsl;
 
 public interface Messages {
-    
 
     /**
      * Format string: "Parameter \"%s\" must not be null."

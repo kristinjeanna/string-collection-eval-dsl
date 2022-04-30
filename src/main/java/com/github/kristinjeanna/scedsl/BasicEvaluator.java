@@ -1,9 +1,9 @@
 package com.github.kristinjeanna.scedsl;
 
-import static com.google.common.base.Preconditions.checkArgument;
-import static com.google.common.base.Strings.nullToEmpty;
 import static com.github.kristinjeanna.scedsl.Messages.PARAM_MUST_NOT_BE_NULL;
 import static com.github.kristinjeanna.scedsl.Messages.PARAM_MUST_NOT_BE_NULL_OR_EMPTY;
+import static com.google.common.base.Preconditions.checkArgument;
+import static com.google.common.base.Strings.nullToEmpty;
 import static java.lang.String.format;
 import static java.util.Objects.requireNonNull;
 

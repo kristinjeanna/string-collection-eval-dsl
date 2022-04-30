@@ -6,12 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.List;
 
-import com.github.kristinjeanna.scedsl.BasicEvaluator;
-import com.github.kristinjeanna.scedsl.BooleanFalseEvaluator;
-import com.github.kristinjeanna.scedsl.BooleanTrueEvaluator;
-import com.github.kristinjeanna.scedsl.NotEvaluator;
-import com.github.kristinjeanna.scedsl.XorEvaluator;
-
 import org.junit.jupiter.api.Test;
 
 public final class XorEvaluatorTest extends AbstractTestBase {

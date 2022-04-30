@@ -9,8 +9,6 @@ import static org.junit.jupiter.params.provider.Arguments.of;
 import java.util.List;
 import java.util.stream.Stream;
 
-import com.github.kristinjeanna.scedsl.Evaluator;
-
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;

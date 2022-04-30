@@ -6,11 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.List;
 
-import com.github.kristinjeanna.scedsl.AndEvaluator;
-import com.github.kristinjeanna.scedsl.BasicEvaluator;
-import com.github.kristinjeanna.scedsl.EndsWithEvaluator;
-import com.github.kristinjeanna.scedsl.NotEvaluator;
-
 import org.junit.jupiter.api.Test;
 
 public final class EndsWithEvaluatorTest extends AbstractTestBase {

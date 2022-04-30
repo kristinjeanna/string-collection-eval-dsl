@@ -7,9 +7,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.github.kristinjeanna.scedsl.BasicEvaluator;
-import com.github.kristinjeanna.scedsl.Defaults;
-
 import org.junit.jupiter.api.Test;
 
 public final class BasicEvaluatorTest extends AbstractTestBase {

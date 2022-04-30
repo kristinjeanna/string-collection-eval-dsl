@@ -1,9 +1,9 @@
 package com.github.kristinjeanna.scedsl;
 
-import static com.google.common.base.Preconditions.checkArgument;
-import static com.google.common.base.Strings.nullToEmpty;
 import static com.github.kristinjeanna.scedsl.Messages.PARAM_MUST_NOT_BE_NULL;
 import static com.github.kristinjeanna.scedsl.Messages.PARAM_MUST_NOT_BE_NULL_OR_EMPTY;
+import static com.google.common.base.Preconditions.checkArgument;
+import static com.google.common.base.Strings.nullToEmpty;
 import static java.lang.String.format;
 import static java.util.Objects.requireNonNull;
 import static java.util.logging.Logger.getLogger;
@@ -18,8 +18,6 @@ import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.RecognitionException;
 import org.antlr.v4.runtime.Recognizer;
 
-import com.github.kristinjeanna.scedsl.SceDslLexer;
-import com.github.kristinjeanna.scedsl.SceDslParser;
 import com.github.kristinjeanna.scedsl.SceDslParser.AndContext;
 import com.github.kristinjeanna.scedsl.SceDslParser.BooleanFalseContext;
 import com.github.kristinjeanna.scedsl.SceDslParser.BooleanTrueContext;
