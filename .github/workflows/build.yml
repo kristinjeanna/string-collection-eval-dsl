@@ -8,7 +8,7 @@ on:
 
 jobs:
   build-and-test-package:
-    name: Build and test on JDK ${{ matrix.java }}"
+    name: Build and test on JDK ${{ matrix.java }}
     strategy:
       matrix:
         java: [ 8, 11, 17 ]
