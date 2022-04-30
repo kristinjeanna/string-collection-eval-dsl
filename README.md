@@ -1,5 +1,7 @@
 # string-collection-eval-dsl
 
+[![Build Status](https://github.com/kristinjeanna/string-collection-eval-dsl/actions/workflows/build.yml/badge.svg)](https://github.com/kristinjeanna/string-collection-eval-dsl/actions)
+
 A Java library providing a domain-specific language (DSL) for evaluating the contents of a string collection.
 
 ## Evaluators
