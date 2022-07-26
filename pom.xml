@@ -22,7 +22,7 @@
 		<version.junit-jupiter-params>${version.junit-jupiter-api}</version.junit-jupiter-params>
 		<version.junit-jupiter-engine>${version.junit-jupiter-api}</version.junit-jupiter-engine>
 
-		<version.junit-platform-engine>1.8.2</version.junit-platform-engine>
+		<version.junit-platform-engine>1.9.0</version.junit-platform-engine>
 		<version.junit-platform-commons>${version.junit-platform-engine}</version.junit-platform-commons>
 		<version.junit-platform-launcher>${version.junit-platform-engine}</version.junit-platform-launcher>
 
