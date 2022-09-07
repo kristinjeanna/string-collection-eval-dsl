@@ -26,7 +26,7 @@
 		<version.junit-platform-commons>${version.junit-platform-engine}</version.junit-platform-commons>
 		<version.junit-platform-launcher>${version.junit-platform-engine}</version.junit-platform-launcher>
 
-		<version.antlr4-runtime>4.10.1</version.antlr4-runtime>
+		<version.antlr4-runtime>4.11.1</version.antlr4-runtime>
 		<version.antlr4-maven-plugin>4.11.1</version.antlr4-maven-plugin>
 
 		<version.guava>31.1-jre</version.guava>
