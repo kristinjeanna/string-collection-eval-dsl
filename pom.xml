@@ -23,7 +23,7 @@
 		<version.junit-jupiter-engine>${version.junit-jupiter-api}</version.junit-jupiter-engine>
 
 		<version.junit-platform-engine>1.9.1</version.junit-platform-engine>
-		<version.junit-platform-commons>${version.junit-platform-engine}</version.junit-platform-commons>
+		<version.junit-platform-commons>1.9.2</version.junit-platform-commons>
 		<version.junit-platform-launcher>${version.junit-platform-engine}</version.junit-platform-launcher>
 
 		<version.antlr4-runtime>4.11.1</version.antlr4-runtime>
